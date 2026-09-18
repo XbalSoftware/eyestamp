@@ -1,0 +1,7 @@
+# This repository publishes ONLY the GitHub Pages site (docs/). The app's
+# source code is intentionally not committed.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/**
